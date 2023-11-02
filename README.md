@@ -1,7 +1,7 @@
 ## Clash for Windows
 
 ### 下载
-[realese](https://github.com/Fndroid/clash_for_windows_pkg/releases)
+[realese](https://github.com/clash-backup/clash-backup-Clash-Multiplatform-Alpha-backup/releases)
 
 ### 运行条件
 
