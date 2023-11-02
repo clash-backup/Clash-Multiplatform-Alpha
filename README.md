@@ -5,11 +5,11 @@
 
 ### 运行条件
 
-``C:\Users\用户名\.config\clash``下包含配置文件**config.yml**
+下载运行即可
 
 ### 启动软件时可以唤起Clash
 
-只需将[clash-win64.exe](https://github.com/Dreamacro/clash/releases)也放置在上面的目录中即可
+下载运行即可
 
 ### 目前功能
 - 显示配置信息
